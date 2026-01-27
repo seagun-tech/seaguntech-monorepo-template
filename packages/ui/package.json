@@ -62,6 +62,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@storybook/react": "catalog:storybook",
     "@types/node": "catalog:",
     "@types/react": "catalog:react19",
     "@types/react-dom": "catalog:react19",
